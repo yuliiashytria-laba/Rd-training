@@ -1,0 +1,12 @@
+# Секрети — ніколи не комітити
+.env
+.streamlit/secrets.toml
+
+# Кеш саммері (генерується локально)
+summaries.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
